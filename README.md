@@ -1,12 +1,12 @@
-#mor, a shitty more copy
+# mor, a shitty more copy
 
-##Warnings!
+## Warnings!
 
 * This program is to _never_ be used by _anyone_ under _any circumstance_
 * If the program is exited using \^C or \^Z, you're at risk of leaving your terminal in canonical mode with no echo set , that will be fun to fix.
 * A patch for this is on the way
 
-##Usage
+## Usage
 
 ```
 mor [options] [files]
